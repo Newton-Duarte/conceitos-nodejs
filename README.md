@@ -28,6 +28,8 @@ Nesse desafio, devemos criar uma aplicação para armazenar repositórios. A apl
 
 ![Resultado dos testes](/tests-result.png)
 
+![Resultado dos testes](/gostack-backend.png)
+
 ## Rotas da Aplicação
 
 `POST /repositories`
