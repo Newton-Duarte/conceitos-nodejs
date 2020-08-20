@@ -26,9 +26,7 @@ Nesse desafio, devemos criar uma aplicação para armazenar repositórios. A apl
 
 `$ yarn test` ou `$ npm run test`
 
-Resultado dos testes
 ![Resultado dos testes](/tests-result.png)
-
 
 ## Rotas da Aplicação
 
